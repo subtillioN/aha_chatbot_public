@@ -1,9 +1,10 @@
 #aha_chatbot {
    position: relative;
+   z-index: 100;
 }
 
 #aha_chatbot_header {
-   background: #283233;
+   background: #283233 url(https://s3.amazonaws.com/cdn.heart.org/voice/ahalogo.png) no-repeat;
    height: 50px;
    width: 100%;
    display: inline-block;
