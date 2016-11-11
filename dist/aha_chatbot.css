@@ -154,6 +154,11 @@
    padding: 41px 0 0 42px;
 }
 
+#aha_chatbot_debug .model-print{
+   width: 477px;
+   padding: 61px 0;
+}
+
 @media only screen and (min-width: 768px) {
    /* tablets and desktop */
    #aha_chatbot #result_wrapper {
