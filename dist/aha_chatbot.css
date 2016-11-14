@@ -97,7 +97,7 @@
    font-size: 13px;
 }
 
-#aha_chatbot .chatbot_request span {
+#aha_chatbot .chatbot_request span, #aha_chatbot .chatbot_resolved_query span {
    float: right;
    background: #272727;
    color: white;
