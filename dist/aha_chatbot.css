@@ -103,7 +103,7 @@
    color: white;
 }
 
-#aha_chatbot .chatbot_response_text span {
+#aha_chatbot .chatbot_dialog_text span {
    float: left;
    background: #e7e7e7;
    color: #272727;
